@@ -1,4 +1,6 @@
+# Hi There! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I am Onur BÜLGÜ
 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&pause=1000&color=0E8D38&background=FF2F5200&random=false&width=435&lines=Selenium" alt="Typing SVG" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/onurbulgu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onurbulgu" height="30" width="40" /></a>
